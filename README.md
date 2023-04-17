@@ -4,8 +4,8 @@
 
 This repository contains all of the files used to recreate the promotional Lego set from 2021 GitHub Summit.
 
-**Instructions**: [PDF](/lego-octodesk-instructions.pdf)
-**Purchase parts**: Upload []() to [Brickable Wanted List](https://www.bricklink.com/v2/wanted/upload.page)
+**Instructions**: [PDF](/lego-octodesk-instructions.pdf) <br />
+**Purchase parts**: Upload [2021 GitHub Developer Octodesk.io](/2021%20GitHub%20Developer%20Octodesk.io) file to [Brickable Wanted List](https://www.bricklink.com/v2/wanted/upload.page) to source and buy parts
 
 ## Contribute
 
