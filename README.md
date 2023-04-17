@@ -4,9 +4,11 @@
 
 This repository contains all of the files used to recreate the promotional Lego set from 2021 GitHub Summit.
 
+**Instructions**: [PDF](/lego-octodesk-instructions.pdf)
+
 ## Contribute
 
 The following is inforamtion on the tools used for this project and relevant videos for teaching yourself like I taught myself!
 
-**Software**: [BrickLink Studio](https://www.bricklink.com/v3/studio/download.page)
+**Software**: [BrickLink Studio](https://www.bricklink.com/v3/studio/download.page) <br />
 **Instruction Maker tutorial**: [YouTube](https://www.youtube.com/watch?v=5RnBxLSYEdg&ab_channel=BooneBuilds)
