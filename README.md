@@ -6,10 +6,11 @@ This repository contains all of the files used to recreate the promotional Lego 
 
 **Instructions**: [PDF](/lego-octodesk-instructions.pdf) <br />
 **Purchase parts**: Upload [2021 GitHub Developer Octodesk.io](/2021%20GitHub%20Developer%20Octodesk.io) file to [Brickable Wanted List](https://www.bricklink.com/v2/wanted/upload.page) to source and buy parts
+**Purchase stickers**: @aharpole has a few extra sticker sheets available for purchase at http://3delights.bigcartel.com/product/github-developer-lego-set-bootleg-sticker-pack
 
 ## Contribute
 
-The following is inforamtion on the tools used for this project and relevant videos for teaching yourself like I taught myself!
+The following is information on the tools used for this project and relevant videos for teaching yourself like I taught myself!
 
 **Software**: [BrickLink Studio](https://www.bricklink.com/v3/studio/download.page) <br />
 **Instruction Maker tutorial**: [YouTube](https://www.youtube.com/watch?v=5RnBxLSYEdg&ab_channel=BooneBuilds)
